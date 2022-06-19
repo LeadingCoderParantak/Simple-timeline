@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+    <link rel="stylesheet" href="style.css">
+<div class="timeline">
+    <div class="container left">
+        <div class="date">01 Dec</div>
+        <i class="icon fa fa home"></i>
+        <div class="content">
+            <h2>Made by Parantak</h2>
+            <p>
+                Hello
+            </p>
+        </div>
+    </div>
+    <div class="container right">
+        <div class="date">05 june</div>
+        <i class="icon fa fa-gift"></i>
+        <div class="content">
+            <h2>Made by Parantak</h2>
+            <p>
+                Made by Parantak
+            </p>
+        </div>
+    </div> 
+    <div class="container left">
+        <div class="date">10 july</div>
+        <i class="icon fa fa-user"></i>
+        <div class="content">
+            <h2>Made by Parantak</h2>
+        <p>
+            Lorem ipsum....
+        </p>
+    <div class="container right">
+        <div class="date">15 may</div>
+        <i class="icon fa fa-running"></i>
+        <div class="content">
+            <h2>Made BY Parantak</h2>
+            <p>
+                Lorem Ipsum....
+            </p>
+        </div>
+    </div> 
+    <div class="container right">
+        <div class="date">10 Feb</div>
+        <i class="icon fa fa-cog"></i> 
+    <div class="content">
+        <h2>Made By Parantak</h2>
+        <p>Lorem Ipsum ...</p>
+
+    </div>
+    </div>
+    <div class="container right">
+        <div class="date">10 March</div>
+        <i class="icon fa fa-certificate"></i>
+        <div class="content">
+            <h2>Made BY Parantak</h2>
+        <p>
+            Lorem Ipsum...
+        </p>
+        </div>
+    </div>
+    </div>
+</div>
+</html>
